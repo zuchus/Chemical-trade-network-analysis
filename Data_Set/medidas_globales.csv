@@ -1,0 +1,23 @@
+metrica,valor,descripcion
+n_nodos,229.0,Número de países (nodos)
+n_aristas,18283.0,Número de relaciones comerciales dirigidas (aristas)
+densidad,0.3501685436298169,Fracción de aristas posibles que existen
+reciprocidad,0.7588470163539901,Fracción de aristas con su par en sentido contrario
+componentes_debiles,1.0,Componentes débilmente conexas
+componentes_fuertes,2.0,Componentes fuertemente conexas
+tam_mayor_comp_fuerte,228.0,Nodos en la mayor componente fuertemente conexa
+grado_entrada_promedio,79.83842794759825,Grado de entrada promedio (= grado de salida promedio)
+grado_total_promedio,159.6768558951965,Grado total promedio (entrada + salida)
+grado_total_mediana,133.0,Mediana del grado total
+grado_total_desv_est,111.5351429028177,Desviación estándar del grado total
+grado_total_max,416.0,Grado total máximo
+grado_total_min,1.0,Grado total mínimo
+grado_total_asimetria,0.6103459560304059,Asimetría de la distribución de grado (>0: cola derecha)
+asortatividad_grado,-0.4387136814186449,Correlación de grado entre extremos de una arista
+clustering_promedio,0.8074929703903011,"Agrupamiento promedio (versión dirigida, sin pesos)"
+transitividad,0.658785114943017,Transitividad de la proyección no dirigida
+camino_promedio,1.6537599505371359,Camino más corto promedio en saltos (mayor comp. fuerte)
+camino_promedio_ponderado,5.633938989238221e-05,Camino más corto promedio usando Resistencia_Ruta como distancia
+diametro,3.0,Diámetro en saltos (mayor comp. fuerte)
+n_comunidades,4.0,Comunidades detectadas con Louvain (proyección no dirigida)
+modularidad,0.17680124725323204,Modularidad de la partición de Louvain
