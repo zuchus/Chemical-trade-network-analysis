@@ -1,0 +1,678 @@
+origen,comunidad_origen,destino,comunidad_destino,peso_volumen,misma_comunidad
+Australia,2,Thailand,2,2.0,True
+Bahrain,3,Belgium,2,2.0,False
+Australia,2,Denmark,1,2.0,False
+Afghanistan,2,Saudi Arabia,3,2.0,False
+Australia,2,Peru,3,2.0,False
+Austria,2,Iraq,3,2.0,False
+China,2,Malawi,1,2.0,False
+Afghanistan,2,Czechia,3,2.0,False
+France,2,Saint Pierre and Miquelon,2,2.0,True
+Australia,2,Guinea,1,2.0,False
+France,2,Naoero,2,2.0,True
+Belgium,2,Kuwait,3,2.0,False
+Austria,2,Dominica,2,2.0,True
+Canada,2,Curaçao,2,2.0,True
+Austria,2,El Salvador,3,2.0,False
+Fr. South Antarctic Terr.,2,France,2,2.0,True
+Australia,2,Solomon Isds,2,2.0,True
+Belgium,2,Congo,1,2.0,False
+Albania,3,Austria,2,2.0,False
+Br. Indian Ocean Terr.,2,Singapore,2,2.0,True
+France,2,N. Mariana Isds,2,2.0,True
+Austria,2,Slovakia,3,2.0,False
+Austria,2,Central African Rep.,2,2.0,True
+Belgium,2,Gibraltar,2,2.0,True
+Austria,2,Zambia,1,2.0,False
+Belgium,2,Turkmenistan,3,2.0,False
+Austria,2,Japan,2,2.0,True
+Austria,2,United Kingdom,2,2.0,True
+Austria,2,South Africa,2,2.0,True
+Albania,3,Australia,2,2.0,False
+Australia,2,Tonga,2,2.0,True
+Australia,2,Falkland Isds (Malvinas),2,2.0,True
+Fr. South Antarctic Terr.,2,Ireland,2,2.0,True
+Australia,2,Mozambique,1,2.0,False
+Australia,2,Mauritius,3,2.0,False
+Austria,2,Costa Rica,3,2.0,False
+Brazil,3,Jamaica,2,2.0,False
+Australia,2,El Salvador,3,2.0,False
+Australia,2,Switzerland,1,2.0,False
+Brazil,3,Comoros,2,2.0,False
+Canada,2,Mali,1,2.0,False
+Belgium,2,Qatar,3,2.0,False
+Australia,2,Zimbabwe,1,2.0,False
+Belgium,2,Malta,3,2.0,False
+Austria,2,Somalia,2,2.0,True
+Canada,2,Saint Pierre and Miquelon,2,2.0,True
+Brazil,3,San Marino,3,2.0,True
+Australia,2,Mauritania,1,2.0,False
+Aruba,2,Canada,2,2.0,True
+Bulgaria,3,Djibouti,2,2.0,False
+Australia,2,Malaysia,2,2.0,True
+Australia,2,USA,2,2.0,True
+Austria,2,Jordan,3,2.0,False
+Australia,2,Vanuatu,2,2.0,True
+Australia,2,Iran,3,2.0,False
+Christmas Isds,2,Singapore,2,2.0,True
+Australia,2,Czechia,3,2.0,False
+Belgium,2,Honduras,3,2.0,False
+Belgium,2,Paraguay,3,2.0,False
+Austria,2,Spain,2,2.0,True
+Belgium,2,Hungary,3,2.0,False
+Australia,2,Nicaragua,3,2.0,False
+Austria,2,"China, Hong Kong SAR",3,2.0,False
+Australia,2,Finland,3,2.0,False
+Falkland Isds (Malvinas),2,United Kingdom,2,2.0,True
+Canada,2,Saint Lucia,2,2.0,True
+Guam,2,New Zealand,2,2.0,True
+South Africa,2,South Sudan,2,2.0,True
+Czechia,3,Saint Helena,2,2.0,False
+Brazil,3,Sao Tome and Principe,1,2.0,False
+Australia,2,Dem. Rep. of the Congo,1,2.0,False
+Belarus,3,Belgium,2,2.0,False
+Austria,2,Türkiye,1,2.0,False
+Austria,2,Bahamas,2,2.0,True
+Australia,2,Georgia,3,2.0,False
+Austria,2,Br. Virgin Isds,2,2.0,True
+Belgium,2,Slovenia,3,2.0,False
+Australia,2,Brazil,3,2.0,False
+Belgium,2,Chile,3,2.0,False
+Austria,2,Guyana,2,2.0,True
+Belgium,2,Nepal,3,2.0,False
+China,2,Eritrea,2,2.0,True
+Austria,2,Cuba,3,2.0,False
+Austria,2,Bosnia Herzegovina,3,2.0,False
+Andorra,3,Austria,2,2.0,False
+Austria,2,San Marino,3,2.0,False
+Belgium,2,Belize,2,2.0,True
+Brazil,3,Eswatini,1,2.0,False
+Belgium,2,Mexico,3,2.0,False
+Belgium,2,Rwanda,1,2.0,False
+Austria,2,Papua New Guinea,2,2.0,True
+Afghanistan,2,Netherlands,2,2.0,True
+Belgium,2,Lao People's Dem. Rep.,2,2.0,True
+Azerbaijan,3,Belgium,2,2.0,False
+Belgium,2,Norway,3,2.0,False
+Australia,2,Lithuania,3,2.0,False
+Belgium,2,Uzbekistan,3,2.0,False
+Austria,2,Pakistan,3,2.0,False
+Austria,2,Morocco,3,2.0,False
+Austria,2,Luxembourg,3,2.0,False
+Bulgaria,3,Timor-Leste,2,2.0,False
+Austria,2,Canada,2,2.0,True
+Afghanistan,2,Sweden,1,2.0,False
+Austria,2,Portugal,1,2.0,False
+Bulgaria,3,Syria,3,2.0,True
+Austria,2,Jamaica,2,2.0,True
+Australia,2,Zambia,1,2.0,False
+Br. Indian Ocean Terr.,2,Canada,2,2.0,True
+Australia,2,Japan,2,2.0,True
+Austria,2,New Caledonia,2,2.0,True
+Belgium,2,North Macedonia,3,2.0,False
+Australia,2,South Africa,2,2.0,True
+Belgium,2,Russian Federation,3,2.0,False
+Australia,2,United Rep. of Tanzania,1,2.0,False
+Austria,2,Panama,3,2.0,False
+Australia,2,Seychelles,2,2.0,True
+Belgium,2,Grenada,2,2.0,True
+Malaysia,2,Solomon Isds,2,2.0,True
+Austria,2,Namibia,1,2.0,False
+Austria,2,Venezuela,3,2.0,False
+Denmark,1,Saint Kitts and Nevis,2,2.0,False
+Austria,2,Bermuda,2,2.0,True
+Canada,2,Fiji,2,2.0,True
+Australia,2,Guatemala,3,2.0,False
+Canada,2,Togo,1,2.0,False
+Belgium,2,Saint Barthélemy,2,2.0,True
+Belgium,2,Montenegro,3,2.0,False
+Australia,2,Serbia,3,2.0,False
+Austria,2,Viet Nam,3,2.0,False
+Australia,2,Somalia,2,2.0,True
+Angola,1,Belgium,2,2.0,False
+Austria,2,Croatia,3,2.0,False
+Belgium,2,Eswatini,1,2.0,False
+Austria,2,Saint Lucia,2,2.0,True
+Belgium,2,"China, Hong Kong SAR",3,2.0,False
+Brazil,3,Yemen,2,2.0,False
+Burundi,1,Canada,2,2.0,False
+Angola,1,Australia,2,2.0,False
+Belgium,2,New Zealand,2,2.0,True
+Belgium,2,Greece,3,2.0,False
+Austria,2,Kuwait,3,2.0,False
+Austria,2,Bhutan,2,2.0,True
+Antarctica,2,France,2,2.0,True
+Belgium,2,Myanmar,3,2.0,False
+Marshall Isds,2,Mozambique,1,2.0,False
+Austria,2,Congo,1,2.0,False
+Anguilla,2,France,2,2.0,True
+Belgium,2,United Arab Emirates,3,2.0,False
+Azerbaijan,3,Brazil,3,2.0,True
+Austria,2,Maldives,3,2.0,False
+Austria,2,Ecuador,3,2.0,False
+Austria,2,Holy See (Vatican City State),2,2.0,True
+Australia,2,Ethiopia,1,2.0,False
+Australia,2,Sri Lanka,3,2.0,False
+Belarus,3,Brazil,3,2.0,True
+Austria,2,Benin,1,2.0,False
+Australia,2,"China, Macao SAR",3,2.0,False
+Austria,2,Haiti,3,2.0,False
+China,2,Dem. People's Rep. of Korea,2,2.0,True
+Afghanistan,2,Denmark,1,2.0,False
+Belgium,2,Jordan,3,2.0,False
+Afghanistan,2,Thailand,2,2.0,True
+Austria,2,Poland,2,2.0,True
+Austria,2,Gibraltar,2,2.0,True
+Belgium,2,New Caledonia,2,2.0,True
+Belgium,2,Bolivia (Plurinational State of),3,2.0,False
+Austria,2,Kazakhstan,3,2.0,False
+Austria,2,Turkmenistan,3,2.0,False
+Australia,2,Luxembourg,3,2.0,False
+Brazil,3,Uzbekistan,3,2.0,True
+Canada,2,Saint Barthélemy,2,2.0,True
+Belgium,2,Bosnia Herzegovina,3,2.0,False
+Australia,2,Portugal,1,2.0,False
+Belgium,2,Papua New Guinea,2,2.0,True
+Austria,2,Syria,3,2.0,False
+Lesotho,1,Namibia,1,2.0,True
+Belgium,2,Sierra Leone,1,2.0,False
+Anguilla,2,China,2,2.0,True
+Australia,2,Austria,2,2.0,True
+Belgium,2,Brunei Darussalam,3,2.0,False
+Australia,2,Kuwait,3,2.0,False
+Antigua and Barbuda,2,Belgium,2,2.0,True
+Australia,2,Naoero,2,2.0,True
+Austria,2,Qatar,3,2.0,False
+Belgium,2,Gabon,1,2.0,False
+Belgium,2,Burkina Faso,1,2.0,False
+Australia,2,Namibia,1,2.0,False
+Austria,2,Malta,3,2.0,False
+Armenia,3,Australia,2,2.0,False
+Austria,2,India,1,2.0,False
+Australia,2,Sweden,1,2.0,False
+Afghanistan,2,Malaysia,2,2.0,True
+Canada,2,Grenada,2,2.0,True
+Austria,2,Nepal,3,2.0,False
+Australia,2,Tunisia,3,2.0,False
+Belgium,2,Ukraine,3,2.0,False
+Australia,2,Iceland,3,2.0,False
+Australia,2,Trinidad and Tobago,2,2.0,True
+Belgium,2,Suriname,2,2.0,True
+Austria,2,Honduras,3,2.0,False
+Belgium,2,Bhutan,2,2.0,True
+Austria,2,Paraguay,3,2.0,False
+Austria,2,Hungary,3,2.0,False
+Brazil,3,Montenegro,3,2.0,True
+Austria,2,Singapore,2,2.0,True
+Austria,2,Fiji,2,2.0,True
+Belgium,2,Nigeria,1,2.0,False
+China,2,Djibouti,2,2.0,True
+Australia,2,Bahrain,3,2.0,False
+Austria,2,Belize,2,2.0,True
+Australia,2,Colombia,3,2.0,False
+Austria,2,Mexico,3,2.0,False
+Austria,2,Rwanda,1,2.0,False
+Kiribati,2,Thailand,2,2.0,True
+Eritrea,2,Germany,2,2.0,True
+Canada,2,Christmas Isds,2,2.0,True
+Austria,2,Norway,3,2.0,False
+Austria,2,Uzbekistan,3,2.0,False
+Australia,2,Ecuador,3,2.0,False
+Bangladesh,3,Belgium,2,2.0,False
+Fiji,2,Tuvalu,2,2.0,True
+Austria,2,Equatorial Guinea,2,2.0,True
+Belgium,2,Dominican Rep.,3,2.0,False
+France,2,Palau,2,2.0,True
+Belgium,2,Egypt,3,2.0,False
+Belgium,2,Sint Maarten,2,2.0,True
+Afghanistan,2,Slovakia,3,2.0,False
+Belgium,2,Burundi,1,2.0,False
+Belgium,2,Syria,3,2.0,False
+Austria,2,Italy,3,2.0,False
+Afghanistan,2,United Kingdom,2,2.0,True
+Afghanistan,2,South Africa,2,2.0,True
+Austria,2,North Macedonia,3,2.0,False
+Canada,2,Djibouti,2,2.0,True
+Austria,2,Russian Federation,3,2.0,False
+France,2,Holy See (Vatican City State),2,2.0,True
+Brazil,3,Cuba,3,2.0,True
+Canada,2,Greenland,2,2.0,True
+Belgium,2,Samoa,2,2.0,True
+Belgium,2,Chad,1,2.0,False
+Brazil,3,Curaçao,2,2.0,False
+China,2,Timor-Leste,2,2.0,True
+Belgium,2,Mongolia,2,2.0,True
+Cayman Isds,2,France,2,2.0,True
+Belgium,2,Rep. of Moldova,3,2.0,False
+Curaçao,2,Denmark,1,2.0,False
+Br. Virgin Isds,2,Canada,2,2.0,True
+Belgium,2,Poland,2,2.0,True
+Austria,2,Saint Barthélemy,2,2.0,True
+Austria,2,Montenegro,3,2.0,False
+Belgium,2,Marshall Isds,2,2.0,True
+China,2,Samoa,2,2.0,True
+China,2,Maldives,3,2.0,False
+Belgium,2,Turks and Caicos Isds,2,2.0,True
+Australia,2,India,1,2.0,False
+Eritrea,2,France,2,2.0,True
+Australia,2,Estonia,3,2.0,False
+Australia,2,Liberia,1,2.0,False
+Australia,2,Iraq,3,2.0,False
+Austria,2,New Zealand,2,2.0,True
+Austria,2,Bangladesh,3,2.0,False
+France,2,Tajikistan,3,2.0,False
+Austria,2,Greece,3,2.0,False
+Australia,2,Honduras,3,2.0,False
+Austria,2,Rep. of Korea,2,2.0,True
+Australia,2,Paraguay,3,2.0,False
+Afghanistan,2,Spain,2,2.0,True
+Australia,2,Singapore,2,2.0,True
+South Africa,2,Tuvalu,2,2.0,True
+Australia,2,Fiji,2,2.0,True
+Austria,2,Myanmar,3,2.0,False
+Belgium,2,Mauritius,3,2.0,False
+Brazil,3,Congo,1,2.0,False
+Belgium,2,State of Palestine,2,2.0,True
+Austria,2,Bulgaria,3,2.0,False
+Afghanistan,2,Türkiye,1,2.0,False
+Belgium,2,Lebanon,3,2.0,False
+Australia,2,Madagascar,1,2.0,False
+Bonaire,2,Netherlands,2,2.0,True
+Bulgaria,3,Suriname,2,2.0,False
+Saint Helena,2,United Kingdom,2,2.0,True
+Saint Helena,2,South Africa,2,2.0,True
+Australia,2,Niger,1,2.0,False
+Australia,2,Slovenia,3,2.0,False
+Australia,2,Chile,3,2.0,False
+Afghanistan,2,Portugal,1,2.0,False
+Austria,2,Oman,3,2.0,False
+Australia,2,Costa Rica,3,2.0,False
+Austria,2,Cyprus,3,2.0,False
+Australia,2,Romania,3,2.0,False
+Angola,1,Austria,2,2.0,False
+Argentina,3,Belgium,2,2.0,False
+Australia,2,Russian Federation,3,2.0,False
+Austria,2,Sierra Leone,1,2.0,False
+Austria,2,United Arab Emirates,3,2.0,False
+Australia,2,Mexico,3,2.0,False
+Australia,2,Lao People's Dem. Rep.,2,2.0,True
+Pitcairn,2,United Kingdom,2,2.0,True
+Canada,2,Chad,1,2.0,False
+Belgium,2,Saint Kitts and Nevis,2,2.0,True
+Palau,2,South Africa,2,2.0,True
+Kiribati,2,South Africa,2,2.0,True
+Belgium,2,Nicaragua,3,2.0,False
+Bouvet Island,2,Netherlands,2,2.0,True
+Bulgaria,3,Sint Maarten,2,2.0,False
+Austria,2,Senegal,1,2.0,False
+Australia,2,Slovakia,3,2.0,False
+Australia,2,Central African Rep.,2,2.0,True
+Belgium,2,Italy,3,2.0,False
+Brazil,3,Haiti,3,2.0,True
+Australia,2,United Kingdom,2,2.0,True
+Austria,2,Bolivia (Plurinational State of),3,2.0,False
+Afghanistan,2,Luxembourg,3,2.0,False
+Bermuda,2,Canada,2,2.0,True
+Austria,2,Barbados,2,2.0,True
+Afghanistan,2,Canada,2,2.0,True
+Belgium,2,Zimbabwe,1,2.0,False
+Austria,2,Suriname,2,2.0,True
+Belgium,2,Dem. Rep. of the Congo,1,2.0,False
+Brazil,3,Turkmenistan,3,2.0,True
+Aruba,2,Belgium,2,2.0,True
+Australia,2,Bangladesh,3,2.0,False
+Australia,2,Greece,3,2.0,False
+Austria,2,Nigeria,1,2.0,False
+Afghanistan,2,Austria,2,2.0,True
+France,2,Guam,2,2.0,True
+Austria,2,Brunei Darussalam,3,2.0,False
+Barbados,2,Belgium,2,2.0,True
+Cabo Verde,2,Canada,2,2.0,True
+Belgium,2,Iran,3,2.0,False
+Australia,2,Myanmar,3,2.0,False
+Austria,2,Burkina Faso,1,2.0,False
+Denmark,1,N. Mariana Isds,2,2.0,False
+Canada,2,Equatorial Guinea,2,2.0,True
+Austria,2,Dominican Rep.,3,2.0,False
+Belgium,2,Cambodia,3,2.0,False
+Australia,2,Guyana,2,2.0,True
+Br. Virgin Isds,2,China,2,2.0,True
+Armenia,3,Austria,2,2.0,False
+Australia,2,Jordan,3,2.0,False
+Botswana,1,Canada,2,2.0,False
+Belgium,2,Cameroon,1,2.0,False
+Austria,2,Egypt,3,2.0,False
+Belgium,2,Lithuania,3,2.0,False
+Austria,2,Uruguay,3,2.0,False
+Austria,2,Ukraine,3,2.0,False
+Belgium,2,Rep. of Korea,2,2.0,True
+Australia,2,Spain,2,2.0,True
+Australia,2,"China, Hong Kong SAR",3,2.0,False
+Austria,2,Chad,1,2.0,False
+Australia,2,Papua New Guinea,2,2.0,True
+Australia,2,Christmas Isds,2,2.0,True
+New Zealand,2,Tokelau,2,2.0,True
+Austria,2,Kenya,1,2.0,False
+Belgium,2,Israel,3,2.0,False
+Australia,2,Sierra Leone,1,2.0,False
+Andorra,3,Belgium,2,2.0,False
+Australia,2,Pakistan,3,2.0,False
+Australia,2,Morocco,3,2.0,False
+Austria,2,Germany,2,2.0,True
+Malaysia,2,South Sudan,2,2.0,True
+Australia,2,Türkiye,1,2.0,False
+Belgium,2,United Rep. of Tanzania,1,2.0,False
+Austria,2,Guinea,1,2.0,False
+Belgium,2,Ghana,1,2.0,False
+Angola,1,Tokelau,2,2.0,False
+Canada,2,Guam,2,2.0,True
+Afghanistan,2,India,1,2.0,False
+Australia,2,Canada,2,2.0,True
+Belgium,2,Oman,3,2.0,False
+Belgium,2,Cyprus,3,2.0,False
+Austria,2,Sint Maarten,2,2.0,True
+Australia,2,New Caledonia,2,2.0,True
+Austria,2,France,2,2.0,True
+American Samoa,2,Spain,2,2.0,True
+Australia,2,Panama,3,2.0,False
+Australia,2,Bosnia Herzegovina,3,2.0,False
+Belgium,2,Serbia,3,2.0,False
+Belgium,2,Cook Isds,2,2.0,True
+Belgium,2,Sri Lanka,3,2.0,False
+Australia,2,Egypt,3,2.0,False
+Belgium,2,"China, Macao SAR",3,2.0,False
+Australia,2,Bhutan,2,2.0,True
+Afghanistan,2,Singapore,2,2.0,True
+Austria,2,Belgium,2,2.0,True
+Austria,2,Mongolia,2,2.0,True
+Australia,2,Brunei Darussalam,3,2.0,False
+Austria,2,Rep. of Moldova,3,2.0,False
+Belgium,2,Senegal,1,2.0,False
+Belgium,2,Cabo Verde,2,2.0,True
+Czechia,3,Fr. South Antarctic Terr.,2,2.0,False
+Australia,2,Viet Nam,3,2.0,False
+Austria,2,State of Palestine,2,2.0,True
+Belgium,2,Sudan,1,2.0,False
+Belgium,2,Botswana,1,2.0,False
+Belgium,2,Uruguay,3,2.0,False
+Niue,2,South Africa,2,2.0,True
+Australia,2,Croatia,3,2.0,False
+Austria,2,Lebanon,3,2.0,False
+Austria,2,Ireland,2,2.0,True
+Austria,2,Uganda,1,2.0,False
+Austria,2,Côte d'Ivoire,1,2.0,False
+American Samoa,2,Canada,2,2.0,True
+China,2,Gabon,1,2.0,False
+Australia,2,Dominican Rep.,3,2.0,False
+Austria,2,Lesotho,1,2.0,False
+Canada,2,Kiribati,2,2.0,True
+Austria,2,China,2,2.0,True
+Burundi,1,Côte d'Ivoire,1,2.0,True
+Austria,2,Switzerland,1,2.0,False
+Austria,2,Zimbabwe,1,2.0,False
+Australia,2,Timor-Leste,2,2.0,True
+N. Mariana Isds,2,Singapore,2,2.0,True
+Australia,2,France,2,2.0,True
+Belgium,2,Malawi,1,2.0,False
+Austria,2,USA,2,2.0,True
+Australia,2,Samoa,2,2.0,True
+Austria,2,Latvia,3,2.0,False
+Bahamas,2,Canada,2,2.0,True
+Bonaire,2,United Kingdom,2,2.0,True
+Australia,2,Germany,2,2.0,True
+Austria,2,Mauritius,3,2.0,False
+Belgium,2,Comoros,2,2.0,True
+Australia,2,Rep. of Moldova,3,2.0,False
+Austria,2,Nicaragua,3,2.0,False
+Germany,2,Palau,2,2.0,True
+Antarctica,2,South Africa,2,2.0,True
+Austria,2,Finland,3,2.0,False
+Belgium,2,Faroe Isds,2,2.0,True
+Bonaire,2,Spain,2,2.0,True
+Canada,2,Gabon,1,2.0,False
+Belgium,2,Sao Tome and Principe,1,2.0,False
+Austria,2,Belarus,3,2.0,False
+Belgium,2,Mali,1,2.0,False
+Australia,2,Poland,2,2.0,True
+Belgium,2,Gambia,1,2.0,False
+Australia,2,Kazakhstan,3,2.0,False
+Germany,2,Saint Pierre and Miquelon,2,2.0,True
+Austria,2,Dem. Rep. of the Congo,1,2.0,False
+American Samoa,2,France,2,2.0,True
+France,2,Wallis and Futuna Isds,2,2.0,True
+Greece,3,Guinea-Bissau,1,2.0,False
+Austria,2,Brazil,3,2.0,False
+France,2,Turks and Caicos Isds,2,2.0,True
+Australia,2,Qatar,3,2.0,False
+Albania,3,Belgium,2,2.0,False
+Belgium,2,Trinidad and Tobago,2,2.0,True
+Austria,2,Iran,3,2.0,False
+Austria,2,Vanuatu,2,2.0,True
+Austria,2,Czechia,3,2.0,False
+Belgium,2,Guinea,1,2.0,False
+Australia,2,Malta,3,2.0,False
+Bulgaria,3,Grenada,2,2.0,False
+Belgium,2,Namibia,1,2.0,False
+Belgium,2,Venezuela,3,2.0,False
+Austria,2,Togo,1,2.0,False
+Canada,2,Seychelles,2,2.0,True
+Austria,2,Malaysia,2,2.0,True
+Afghanistan,2,Switzerland,1,2.0,False
+Austria,2,Yemen,2,2.0,True
+Belgium,2,Viet Nam,3,2.0,False
+Brazil,3,Cameroon,1,2.0,False
+Australia,2,Kenya,1,2.0,False
+Bulgaria,3,Libya,3,2.0,True
+Belgium,2,Jamaica,2,2.0,True
+Belgium,2,Côte d'Ivoire,1,2.0,False
+Benin,1,Canada,2,2.0,False
+Belgium,2,Colombia,3,2.0,False
+Brazil,3,Burkina Faso,1,2.0,False
+Austria,2,Cambodia,3,2.0,False
+Afghanistan,2,Bulgaria,3,2.0,False
+Algeria,3,Belgium,2,2.0,False
+Australia,2,Nepal,3,2.0,False
+Austria,2,Cameroon,1,2.0,False
+Austria,2,Lithuania,3,2.0,False
+Canada,2,Sudan,1,2.0,False
+Germany,2,Holy See (Vatican City State),2,2.0,True
+Belgium,2,Peru,3,2.0,False
+Australia,2,Hungary,3,2.0,False
+Austria,2,Saudi Arabia,3,2.0,False
+Bulgaria,3,Kyrgyzstan,3,2.0,True
+Canada,2,Gambia,1,2.0,False
+Australia,2,Belize,2,2.0,True
+Austria,2,Serbia,3,2.0,False
+Australia,2,Rwanda,1,2.0,False
+Austria,2,Israel,3,2.0,False
+Australia,2,Norway,3,2.0,False
+Belgium,2,Tonga,2,2.0,True
+Naoero,2,New Zealand,2,2.0,True
+Bulgaria,3,Comoros,2,2.0,False
+Belgium,2,Mozambique,1,2.0,False
+Afghanistan,2,Pakistan,3,2.0,False
+Australia,2,Latvia,3,2.0,False
+Canada,2,Malawi,1,2.0,False
+Argentina,3,Austria,2,2.0,False
+Belgium,2,Uganda,1,2.0,False
+Austria,2,United Rep. of Tanzania,1,2.0,False
+Falkland Isds (Malvinas),2,South Africa,2,2.0,True
+Canada,2,Turks and Caicos Isds,2,2.0,True
+New Zealand,2,Tuvalu,2,2.0,True
+Austria,2,Seychelles,2,2.0,True
+Belgium,2,Togo,1,2.0,False
+Germany,2,Tajikistan,3,2.0,False
+Canada,2,Faroe Isds,2,2.0,True
+Australia,2,Italy,3,2.0,False
+China,2,State of Palestine,2,2.0,True
+Ireland,2,Tokelau,2,2.0,True
+Belgium,2,Mauritania,1,2.0,False
+Australia,2,North Macedonia,3,2.0,False
+Austria,2,Guatemala,3,2.0,False
+Bahamas,2,Belgium,2,2.0,True
+Belgium,2,Vanuatu,2,2.0,True
+Cook Isds,2,New Zealand,2,2.0,True
+Austria,2,Kyrgyzstan,3,2.0,False
+Dem. People's Rep. of Korea,2,Poland,2,2.0,True
+Belgium,2,Finland,3,2.0,False
+Belgium,2,Estonia,3,2.0,False
+Belgium,2,Iraq,3,2.0,False
+Bolivia (Plurinational State of),3,Venezuela,3,2.0,True
+Belgium,2,United States Minor Outlying Islands,2,2.0,True
+Aruba,2,Austria,2,2.0,True
+Bulgaria,3,Gambia,1,2.0,False
+Belgium,2,Dominica,2,2.0,True
+Austria,2,Ghana,1,2.0,False
+Belgium,2,El Salvador,3,2.0,False
+Canada,2,Cayman Isds,2,2.0,True
+Canada,2,Tonga,2,2.0,True
+Algeria,3,Brazil,3,2.0,True
+Australia,2,Cambodia,3,2.0,False
+Brazil,3,Marshall Isds,2,2.0,False
+Australia,2,New Zealand,2,2.0,True
+Austria,2,Ethiopia,1,2.0,False
+Austria,2,Sri Lanka,3,2.0,False
+Belgium,2,Georgia,3,2.0,False
+Austria,2,"China, Macao SAR",3,2.0,False
+Australia,2,Rep. of Korea,2,2.0,True
+Australia,2,Saudi Arabia,3,2.0,False
+Dem. People's Rep. of Korea,2,India,1,2.0,False
+Argentina,3,Australia,2,2.0,False
+Denmark,1,Greenland,2,2.0,False
+Denmark,1,Gibraltar,2,2.0,False
+Belgium,2,Madagascar,1,2.0,False
+Belgium,2,Zambia,1,2.0,False
+Canada,2,Mauritania,1,2.0,False
+Belgium,2,Japan,2,2.0,True
+Antigua and Barbuda,2,Canada,2,2.0,True
+Afghanistan,2,Kenya,1,2.0,False
+Canada,2,Yemen,2,2.0,True
+Australia,2,Israel,3,2.0,False
+Belgium,2,Costa Rica,3,2.0,False
+Anguilla,2,Canada,2,2.0,True
+Afghanistan,2,Germany,2,2.0,True
+Australia,2,Bulgaria,3,2.0,False
+Canada,2,Saint Kitts and Nevis,2,2.0,True
+Austria,2,Netherlands,2,2.0,True
+Austria,2,Botswana,1,2.0,False
+Brazil,3,Mongolia,2,2.0,False
+Belgium,2,Romania,3,2.0,False
+Australia,2,Ghana,1,2.0,False
+Australia,2,Bolivia (Plurinational State of),3,2.0,False
+Afghanistan,2,Kazakhstan,3,2.0,False
+Canada,2,United States Minor Outlying Islands,2,2.0,True
+Belgium,2,Guatemala,3,2.0,False
+Australia,2,Barbados,2,2.0,True
+Australia,2,Oman,3,2.0,False
+Belgium,2,Somalia,2,2.0,True
+Australia,2,Cyprus,3,2.0,False
+Equatorial Guinea,2,France,2,2.0,True
+Afghanistan,2,France,2,2.0,True
+Austria,2,Sweden,1,2.0,False
+Belgium,2,Central African Rep.,2,2.0,True
+Australia,2,United Arab Emirates,3,2.0,False
+Austria,2,Tunisia,3,2.0,False
+Austria,2,Cayman Isds,2,2.0,True
+Andorra,3,Australia,2,2.0,False
+Austria,2,Iceland,3,2.0,False
+Austria,2,Trinidad and Tobago,2,2.0,True
+Afghanistan,2,Belgium,2,2.0,True
+Austria,2,Faroe Isds,2,2.0,True
+Antigua and Barbuda,2,Austria,2,2.0,True
+Australia,2,Senegal,1,2.0,False
+Austria,2,Solomon Isds,2,2.0,True
+Czechia,3,Tajikistan,3,2.0,True
+Austria,2,Sao Tome and Principe,1,2.0,False
+Austria,2,Bahrain,3,2.0,False
+Austria,2,Azerbaijan,3,2.0,False
+Austria,2,Mali,1,2.0,False
+Afghanistan,2,Ireland,2,2.0,True
+Belgium,2,Morocco,3,2.0,False
+Austria,2,Peru,3,2.0,False
+Austria,2,Denmark,1,2.0,False
+Armenia,3,Belgium,2,2.0,False
+Afghanistan,2,China,2,2.0,True
+Austria,2,Thailand,2,2.0,True
+Brazil,3,Dominica,2,2.0,False
+Belgium,2,Kyrgyzstan,3,2.0,False
+Australia,2,Nigeria,1,2.0,False
+Bulgaria,3,Niger,1,2.0,False
+Bulgaria,3,Liberia,1,2.0,False
+Belgium,2,Guyana,2,2.0,True
+Bermuda,2,Denmark,1,2.0,False
+Lesotho,1,Netherlands,2,2.0,False
+Austria,2,Eswatini,1,2.0,False
+Afghanistan,2,USA,2,2.0,True
+Austria,2,Mozambique,1,2.0,False
+Afghanistan,2,Latvia,3,2.0,False
+Belgium,2,Panama,3,2.0,False
+Belgium,2,San Marino,3,2.0,False
+South Sudan,2,Switzerland,1,2.0,False
+Singapore,2,United States Minor Outlying Islands,2,2.0,True
+Canada,2,Montserrat,2,2.0,True
+Austria,2,Colombia,3,2.0,False
+Australia,2,Sudan,1,2.0,False
+Australia,2,Netherlands,2,2.0,True
+Belgium,2,Ethiopia,1,2.0,False
+Greenland,2,Iceland,3,2.0,False
+Australia,2,Uruguay,3,2.0,False
+Australia,2,Ukraine,3,2.0,False
+Canada,2,Libya,3,2.0,False
+Bulgaria,3,Cuba,3,2.0,True
+Algeria,3,Austria,2,2.0,False
+Belgium,2,Iceland,3,2.0,False
+Belgium,2,Croatia,3,2.0,False
+Austria,2,Madagascar,1,2.0,False
+Australia,2,Belgium,2,2.0,True
+Belgium,2,Saint Lucia,2,2.0,True
+Belgium,2,Tunisia,3,2.0,False
+New Zealand,2,Pitcairn,2,2.0,True
+Austria,2,Niger,1,2.0,False
+Afghanistan,2,Brazil,3,2.0,False
+Austria,2,Slovenia,3,2.0,False
+Austria,2,Chile,3,2.0,False
+Austria,2,Estonia,3,2.0,False
+Austria,2,Liberia,1,2.0,False
+Austria,2,Libya,3,2.0,False
+Montserrat,2,Rep. of Korea,2,2.0,True
+Austria,2,Romania,3,2.0,False
+Australia,2,Lebanon,3,2.0,False
+Australia,2,Ireland,2,2.0,True
+Australia,2,Uganda,1,2.0,False
+Australia,2,Côte d'Ivoire,1,2.0,False
+Belgium,2,Maldives,3,2.0,False
+Brazil,3,Cabo Verde,2,2.0,False
+Belgium,2,Ecuador,3,2.0,False
+Cook Isds,2,Mauritius,3,2.0,False
+Australia,2,China,2,2.0,True
+Austria,2,Lao People's Dem. Rep.,2,2.0,True
+Belgium,2,Benin,1,2.0,False
+Belgium,2,Haiti,3,2.0,False
+Austria,2,Georgia,3,2.0,False
+Australia,2,Wallis and Futuna Isds,2,1.0,True
+Belgium,2,Western Sahara,3,1.0,False
+Brazil,3,South Georgia and the South Sandwich Islands,2,1.0,False
+Australia,2,Pitcairn,2,1.0,True
+Australia,2,Cocos Isds,2,1.0,True
+Br. Antarctic Terr.,3,Uruguay,3,1.0,True
+Austria,2,Western Sahara,3,1.0,False
+Bulgaria,3,Montserrat,2,1.0,False
+Heard Island and McDonald Islands,3,Sweden,1,1.0,False
+China,2,Niue,2,1.0,True
+Br. Indian Ocean Terr.,2,Brazil,3,1.0,False
+China,2,Norfolk Isds,2,1.0,True
+Netherlands,2,Niue,2,1.0,True
+Belgium,2,Guinea-Bissau,1,1.0,False
+Cocos Isds,2,Netherlands,2,1.0,True
+Bouvet Island,2,Malaysia,2,1.0,True
+Bouvet Island,2,China,2,1.0,True
+Austria,2,Guinea-Bissau,1,1.0,False
+China,2,Cocos Isds,2,1.0,True
+Belgium,2,South Georgia and the South Sandwich Islands,2,1.0,True
+France,2,South Georgia and the South Sandwich Islands,2,1.0,True
+Belgium,2,Wallis and Futuna Isds,2,1.0,True
+Czechia,3,Western Sahara,3,1.0,True
+Brazil,3,Heard Island and McDonald Islands,3,1.0,True
+Malaysia,2,Norfolk Isds,2,1.0,True
+Antarctica,2,Canada,2,1.0,True
+Australia,2,Norfolk Isds,2,1.0,True
