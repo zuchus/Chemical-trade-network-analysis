@@ -9,21 +9,21 @@ tam_mayor_comp_fuerte,228,Nodos en la mayor componente fuertemente conexa
 grado_entrada_promedio,79.83842794759825,Grado de entrada promedio (= grado de salida promedio)
 grado_total_promedio,159.6768558951965,Grado total promedio (entrada + salida)
 grado_total_mediana,133.0,Mediana del grado total
-grado_total_desv_est,111.5351429028177,Desviación estándar del grado total
+grado_total_desv_est,111.53514290281763,Desviación estándar del grado total
 grado_total_max,416,Grado total máximo
 grado_total_min,1,Grado total mínimo
-grado_total_asimetria,0.6103459560304059,Asimetría de la distribución de grado (>0: cola derecha)
-asortatividad_grado,-0.4387136814186449,Correlación de grado entre extremos de una arista
-clustering_promedio,0.8074929703903011,"Agrupamiento promedio (versión dirigida, sin pesos)"
+grado_total_asimetria,0.6103459560304029,Asimetría de la distribución de grado (>0: cola derecha)
+asortatividad_grado,-0.4387136814186454,Correlación de grado entre extremos de una arista
+clustering_promedio,0.8074929703903004,"Agrupamiento promedio (versión dirigida, sin pesos)"
 transitividad,0.658785114943017,Transitividad de la proyección no dirigida
 camino_promedio,1.6537599505371359,Camino más corto promedio en saltos (mayor comp. fuerte)
-camino_promedio_ponderado,5.633938989238221e-05,Camino más corto promedio usando Resistencia_Ruta como distancia
+camino_promedio_ponderado,5.63393898923834e-05,Camino más corto promedio usando Resistencia_Ruta como distancia
 diametro,3,Diámetro en saltos (mayor comp. fuerte)
 n_comunidades,4,Comunidades detectadas con Louvain (proyección no dirigida)
-modularidad,0.17680124725323124,Modularidad de la partición de Louvain
+modularidad,0.17680124725323101,Modularidad de la partición de Louvain
 tam_comunidades_louvain,"[153, 36, 36, 4]","Tamaño de cada comunidad de Louvain, de mayor a menor"
 n_comunidades_lp,1,Comunidades detectadas con label propagation (semilla 42)
-modularidad_lp,-1.2212453270876722e-15,Modularidad ponderada por volumen de la partición de label propagation
+modularidad_lp,-1.1102230246251565e-16,Modularidad ponderada por volumen de la partición de label propagation
 tam_comunidades_lp,[229],Tamaño de las 10 mayores comunidades de label propagation
 nmi_louvain_vs_lp,0.0,Información mutua normalizada entre Louvain y label propagation (1 = idénticas)
 n_comunidades_gn,161,Comunidades de Girvan-Newman (corte con mayor modularidad)
