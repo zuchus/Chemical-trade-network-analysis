@@ -1,0 +1,5 @@
+Escenario,Nodos,Aristas,Tamaño Mayor SCC,Fracción en SCC,Componentes Fuertes,Nodos Aislados,Camino Promedio (SCC),Diámetro (SCC)
+Red Normal,229,18283,228,0.9956,2,0,1.654,3
+Ataque Top 5 Betweenness,224,16382,223,0.9955,2,0,1.678,3
+Ataque Top 5 Volumen Exportado,224,16404,223,0.9955,2,0,1.677,3
+Fallo Aleatorio (5 países),224,17103,223,0.9955,2,0,1.662,3
